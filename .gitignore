@@ -1,3 +1,12 @@
+# protect secrets.json
+secrets.json
+
+# probably debugged output
+output*.csv
+
+# any excel files I accidentally leave in the repo
+*.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
