@@ -1,7 +1,7 @@
 import requests, csv, json, time, sys, argparse, math
 
 class Const:
-    useragent = {'user-agent': 'song-length-finder/1.0.0'}
+    useragent = {'user-agent': 'song-length-finder/1.1.0'}
 
 # command line argument parser garbage
 parser = argparse.ArgumentParser(description="get the lengths for a CSV list of songs (with artists)")
