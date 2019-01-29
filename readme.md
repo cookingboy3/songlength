@@ -18,7 +18,7 @@ feed it a lists of tracks with their artists (see songs-stripped.csv) and an api
 
 ## why?
 
-I have a stats project centering around songs and their length, and after using a random website to get a list of songs (and painfully tying each. and. every. one. down.) it turned out that the website wouldn't tell me the lengths, so I had to do that myself. as you might expect, spending 3 hours writing an automated solution to the problem instead of spending the 90 minutes to do it manually was totally worth it.  
+I have a stats project centering around songs and their length, and after using a random website to get a list of songs (and painfully typing each. and. every. one. down.) it turned out that the website wouldn't tell me the lengths, so I had to do that myself. as you might expect, spending 3 hours writing an automated solution to the problem instead of spending the 90 minutes to do it manually was totally worth it.  
 more accurately, because I wanted to. I don't often find good opportunities to write code for legitimate real life tasks, so this was a nice change and it was a lot of fun to get it working. so, why not? ~~because I have a lot of deadlines to hit.~~
 
 ## can I help?
